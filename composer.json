@@ -1,0 +1,12 @@
+{
+    "name": "martinsluters/ml-braintree-woo-paymenet-gateway-customisatio",
+    "authors": [
+        {
+            "name": "Martins Luters",
+            "email": "luters.martins@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "10up/wp_mock": "0.4.2"
+    }
+}
